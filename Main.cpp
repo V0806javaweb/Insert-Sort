@@ -6,7 +6,7 @@ void insertionS(int sorce[], int len);
 
 int main()
 {
-	int arr[7] = { 3,1,0,55,55,777,9 };
+	int arr[7] = { 3,1,0,55,55,777,1 };
 	for (int t : arr)
 		cout << t << " ";
 	
